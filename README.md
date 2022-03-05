@@ -1,1 +1,3 @@
 # odin-recipes
+This is the introduction to odin-recipes project
+I hope this goes well...
